@@ -1,5 +1,4 @@
-# next_cloud_public_link
-Generation of public links using directory listing.
+# Generation of public links using directory listing
 
 1. Prepare the file `listing.txt` and save it in the directory.
 2. Enter the settings into the file script.php:
